@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Sora-source
 
-<!--
-**Sora-source/Sora-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I'm a C# Full-Stack developer passionate about building professional, elegant solutions.
 
-Here are some ideas to get you started:
+## 🌐 Professional Website
+**[Visit My Professional Portfolio](https://lekkerlegant.com)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Your professional service-providing website with full details about my work and services.
+
+## 💻 Tech Stack
+- **Language**: C#, JAVA, JAVASCRIPT, SQL, POSTGRESQL 
+- **Framework**: .NET
+- **Tools**: Visual Studio, Git, SUPABASE FIREBASE
+
+## 📌 Featured Projects
+- **[LWDservice](https://github.com/Sora-source/LWDservice)** - C# Service Application
+
+## 📊 GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sora-source&theme=dark&show_icons=true)
+
+---
+
+**Let's build something amazing together!**
