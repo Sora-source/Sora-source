@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Somelele
 
-Welcome to my GitHub profile. I'm a C# Full-Stack developer passionate about building professional, elegant solutions.
+Welcome to my GitHub profile. I'm a C# and JAVA Full-Stack developer passionate about building professional, elegant solutions.
 
 <img src="https://avatars.githubusercontent.com/u/177912731?v=4" alt="Sora-source" width="120" height="120" style="border-radius: 50%; border: 3px solid #fff; margin: 20px 0;">
 
