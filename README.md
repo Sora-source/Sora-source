@@ -15,11 +15,11 @@ Your professional service-providing website with full details about my work and 
 
 ## 💻 Tech Stack
 - **Language**: C#, JAVA, JAVASCRIPT, SQL, POSTGRESQL 
-- **Framework**: .NET MAUI, WPF, ASP.NET MVC, REACT, JAVAFX, ANDROID
+- **Framework**: .NET MAUI, AVALONIA WPF, ASP.NET MVC, REACT,NEXT JS, NODE JS, JAVAFX, ANDROID
 - **Tools**: Visual Studio,ntelliJ IDE, VS CODE, Git, SUPABASE, FIREBASE
 
-## 📌 Featured Projects
-- **[LWDservice](https://github.com/Sora-source/LWDservice)** - C# Service Application
+## 📌 Selected Projects
+- **[Hustlehub SA](https://hustlehubza.co.za)** - C# Service Application
 
 ---
 
