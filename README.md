@@ -19,7 +19,7 @@ Your professional service-providing website with full details about my work and 
 - **Tools**: Visual Studio,ntelliJ IDE, VS CODE, Git, SUPABASE, FIREBASE
 
 ## 📌 Selected Projects
-- **[Hustlehub SA](https://hustlehubza.co.za)** - C# Service Application
+- **[Hustlehub SA](https://hustlehubza.co.za)** - React Provider-Client Live Website
 
 ---
 
